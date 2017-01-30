@@ -12,6 +12,8 @@ Open Source under the Apache 2.0 License.
 Getting Started
 ---------------
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b5c9b601ce1f484093c9c4fa1ff0ea82)](https://www.codacy.com/app/harlamova/Laika?utm_source=github.com&utm_medium=referral&utm_content=Elisabethar/Laika&utm_campaign=badger)
+
 The main artifact is published to Maven Central for Scala 2.10 and 2.11.
 
 The sbt plugin is published to the sbt plugin repository for sbt 0.13.x.
